@@ -43,5 +43,7 @@ Works effectively even with noisy images.
 
 Can be extended for real-time video feed detection.
 
-📜 License
-This project is licensed under the MIT License.
+🧑‍💻Author  
+Suraj Singh Bisht
+B.Tech | Electronics and Communication Engineering (ECE)
+Project built as part of personal learning.
