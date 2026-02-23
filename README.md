@@ -25,16 +25,6 @@ Morphological Operations
 
 Noise Removal and Filtering
 
-📂 Project Structure
-bash
-Copy
-Edit
-CrackDetection/
-│
-├── code/                # MATLAB scripts
-├── images/              # Sample input images
-├── results/             # Output and detected crack images
-└── README.md
 
 📊 Results & Accuracy
 Accuracy: 90% on test dataset.
